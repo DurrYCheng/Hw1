@@ -1,0 +1,3 @@
+﻿D:\Visual Studio seventeen\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+  hw1.vcxproj -> D:\School\NTUT\大三上\Programming_LAB\HW_1\Hw1\109360451_楊澄\2.25\hw1\hw1\..\..\temp\debug\hw1.exe
